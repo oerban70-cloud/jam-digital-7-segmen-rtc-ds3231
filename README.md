@@ -10,7 +10,7 @@ menyala lagi, jam langsung tampil benar tanpa diatur ulang. Akurasi
 DS3231 sekitar 2 ppm — jam ini melenceng kurang dari dua menit dalam
 setahun.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://www.youtube.com/shorts/DaE9jqtDS0E
 
 ## Cara kerja
 
